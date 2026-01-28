@@ -67,6 +67,7 @@ body {
 }
 
 .touch:hover {
+    border-radius: 3rem;
     background-color: #fff;
     box-shadow: 0px 1px 2px #fff;
     color: #000;
